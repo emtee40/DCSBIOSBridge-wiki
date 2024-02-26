@@ -1,4 +1,4 @@
-## DCSBIOSDataBroker transfers data from ```dcs-bios``` to your ```serial ports``` and vice versa
+## DCSBIOSBridge transfers data between ```dcs-bios``` and your ```serial ports```
 
 
 ### dcs-bios communication
