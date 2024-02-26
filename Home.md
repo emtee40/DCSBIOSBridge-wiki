@@ -13,7 +13,7 @@
 * ```Edit``` => ```Options``` and you can set the ```dcs-bios``` socket settings
 
 
-![Screenshot 2024-02-26 153340](https://github.com/DCS-Skunkworks/DCSBIOSDataBroker/assets/10453261/9ade9dc5-57fb-4670-bec3-4adb4c7d13ca)
+![configure](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/0c275496-6e67-4f69-a6a3-4d607baed224)
 
 ![2024-02-26_153410](https://github.com/DCS-Skunkworks/DCSBIOSDataBroker/assets/10453261/3a5d8b08-67ff-40e9-8ced-1724f7ca6290)
 
