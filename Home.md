@@ -7,6 +7,7 @@
 ### Serial ports
 * You can configure the serial ports by ```right-clicking``` them and choose ```Configure```
 * If you have a serial port that isn't used with ```dcs-bios``` just remove it via the top right icon. It won't be included in the profile after that.
+* Click the magnifier to add all ```serial ports``` found by Windows to the profile
 
 ### dcs-bios settings
 * ```Edit``` => ```Options``` and you can set the ```dcs-bios``` socket settings
