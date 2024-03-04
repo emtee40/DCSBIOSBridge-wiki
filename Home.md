@@ -15,6 +15,9 @@ This helps keeping your settings from session to session. Save anywhere and read
 ### dcs-bios socket settings
 * ```Edit``` => ```Options``` and you can set the ```dcs-bios``` socket settings
 
+### List DCS-BIOS commands sent from serial port
+Place the cursor over the command (below the read label) and the last 10 commands will be shown.
+
 ![2024-03-04_145511](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/8134eb0d-a566-49cc-9002-adf02f3447bd)
 
 ![2024-03-04_144955](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/b22e6f92-0d14-4686-bbb3-011f6dc89b95)
