@@ -7,7 +7,7 @@ This helps keeping your settings from session to session. Save anywhere and read
 * The cog wheel spins when data is received from ```dcs-bios```
 
 ### Serial ports
-* You can configure the serial ports by ```right-clicking``` them and choose ```Configure```
+* You can configure the serial port by clicking the blue configure button
 * If you have a serial port that isn't used with ```dcs-bios``` just remove it via the top right icon. It won't be included in the profile after that.
 * Click the magnifier to add all ```serial ports``` found by Windows to the profile
 * If you have a serial port in your profile that isn't found by Windows it will be dimmed. To removed it go to ```Options``` => ```Remove disabled ports```.
