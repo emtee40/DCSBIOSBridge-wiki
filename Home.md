@@ -15,7 +15,7 @@ Place the mouse cursor over the command (below the read label) and the last 10 c
 * You can configure the serial port by clicking the blue configure button
 * If you have a serial port that isn't used with ```DCS-BIOS``` just remove it via the top right icon. It won't be included in the profile after that.
 * Click the magnifier to add all ```serial ports``` found by Windows to the profile
-* If you have a serial port in your profile that isn't found by Windows it will be dimmed. To removed it go to ```Options``` => ```Remove disabled ports```.
+* If you have a serial port in your profile that isn't found by Windows it will be dimmed. To remove it go to ```Edit``` => ```Remove disabled ports```.
 
 ![2024-03-04_144955](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/b22e6f92-0d14-4686-bbb3-011f6dc89b95)
 
