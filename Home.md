@@ -1,5 +1,7 @@
 ## DCSBIOSBridge transfers data between ```dcs-bios``` and your ```serial ports```
 
+### Creating a profile
+This helps keeping your settings from session to session. Save anywhere and read from anywhere.
 
 ### dcs-bios communication
 * The cog wheel spins when data is received from ```dcs-bios```
