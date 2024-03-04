@@ -14,8 +14,7 @@ This helps keeping your settings from session to session. Save anywhere and read
 ### dcs-bios settings
 * ```Edit``` => ```Options``` and you can set the ```dcs-bios``` socket settings
 
-
-![configure](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/0c275496-6e67-4f69-a6a3-4d607baed224)
+![2024-03-04_144836](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/809fb826-b1b0-4d30-9644-341891d696bd)
 
 ![2024-02-26_153410](https://github.com/DCS-Skunkworks/DCSBIOSDataBroker/assets/10453261/3a5d8b08-67ff-40e9-8ced-1724f7ca6290)
 
