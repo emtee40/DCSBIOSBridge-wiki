@@ -7,7 +7,7 @@ This helps keeping your settings from session to session. Save anywhere and read
 * The cog wheel spins when data is received from ```DCS-BIOS```
 
 ### List DCS-BIOS commands sent from serial port
-Place the cursor over the command (below the read label) and the last 10 commands will be shown.
+Place the mouse cursor over the command (below the read label) and the last 10 commands will be shown.
 
 ![2024-03-04_145511](https://github.com/DCS-Skunkworks/DCSBIOSBridge/assets/10453261/8c2779a7-00bb-40a0-880f-3dbcf73e407d)
 
