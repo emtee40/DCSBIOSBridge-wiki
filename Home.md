@@ -1,5 +1,7 @@
 ## DCSBIOSBridge transfers data between ```DCS-BIOS``` and your ```serial ports```
 
+[Troubleshooting](https://github.com/DCS-Skunkworks/DCSBIOSBridge/wiki/Troubleshooting)
+
 ### Creating a profile
 This helps keeping your settings from session to session.
 
